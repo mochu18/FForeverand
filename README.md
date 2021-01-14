@@ -14,5 +14,25 @@
 <p>
 
 
-![Metrics](https://metrics.lecoq.io/FForeverand?template=classic&languages=1&config.timezone=Asia%2FShanghai)
 
+### 🏆 Github Status
+<a href="">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=FForeverand&column=7&theme=onedark"/>
+    </p>
+</a>
+<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
+<a align="center" href="">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FForeverand&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FForeverand&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+
+
+
+
+
+### ☕ Get In Touch
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FForeverand)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/FForeverand)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:l1470387739@gmail.com)
